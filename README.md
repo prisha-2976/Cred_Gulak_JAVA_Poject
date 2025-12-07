@@ -171,18 +171,24 @@ Customer added successfully.
 Loan Type: Home Loan
 Interest Rate: 8.5%
 EMI: ₹12,350
+
 Data Saved Successfully.
+
+
 
 
 /Java-Project
 │── src/main/java/com
+
 │   ├── db
 │    ├── DatabaseHandler.java
 │    ├── Query1.sql
+
 |   |── Exception
 │    ├── InvalidAgeException.java
 │    ├── InvalidCreditScoreException.java
 |    ├── InvalidSalaryException.java
+
 |    |── loantype
 │     ├── borrower.java
 │     ├── Carloan.java
