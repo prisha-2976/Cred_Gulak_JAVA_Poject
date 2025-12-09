@@ -1,8 +1,7 @@
 # Java_Project on master branch
 
-Subscription-Based Loan Billing System(SAP BRIM CI Inspired Model)
+Subscription-Based Loan Billing System(SAP BRIM CC Inspired Model)
 
-A simplified Java-based billing system designed to simulate how SAP BRIM CI (Convergent Invoicing) handles subscription billing, validations, rating, and invoice creation.
 
 --Project Overview--
 
