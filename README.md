@@ -1,4 +1,4 @@
-# Java_Project on master branch
+# CRED_GULAK-Java_Project on master branch
 
 Subscription-Based Loan Billing System(SAP BRIM CC Inspired Model)
 
